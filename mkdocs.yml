@@ -1,0 +1,67 @@
+site_name: ETL e-commerce Mercado Livre
+
+repo_url: https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  name: material
+  features:
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - navigation.tracking
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - header.autohide
+  palette:
+    - scheme: light
+      primary: white
+      toggle:
+        icon: material/lightbulb-outline
+        name: Modo Noturno
+    - scheme: slate
+      primary: custom
+      toggle:
+        icon: material/lightbulb
+        name: Modo Claro
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+
+
+markdown_extensions:
+  - pymdownx.tasklist       # suporte a lista de tarefas
+  - pymdownx.mark           # suporte a mrcações
+  - pymdownx.tilde          # suporte a tachado
+  - pymdownx.highlight      # suporte a código
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.betterem
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.emoji:          # suporte a emojis
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+  - mkdocstrings:
+      handlers:
+        python:
+          import:
+          - https://docs.python-requests.org/en/master/objects.inv
+
+copyright: Copyright &copy; 2023 Oséias Farias

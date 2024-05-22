@@ -17,6 +17,12 @@ streamlit-navigation-bar = "^3.3.0"
 
 [tool.poetry.group.dev.dependencies]
 flake8 = "^7.0.0"
+mkdocs = "^1.6.0"
+mkdocs-material = "^9.5.24"
+mkdocstrings = {extras = ["crystal", "python"], version = "^0.25.1"}
+mkdocstrings-python = "^1.10.3"
+mkdocs-macros-plugin = "^1.0.5"
+pymdown-extensions = "^10.8.1"
 
 [build-system]
 requires = ["poetry-core"]

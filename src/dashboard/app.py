@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 # Conectando ao banco de dados SQLite3
-conn = sqlite3.connect("../../data/quotes.db")
+conn = sqlite3.connect("./data/quotes.db")
 
 # Carregando a base de dados da tabela
 # "mercadolivre_items" em um DataFrame Pandas

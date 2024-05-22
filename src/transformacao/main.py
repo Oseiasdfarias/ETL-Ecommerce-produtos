@@ -8,7 +8,7 @@ import os
 # as colunas do dataframe
 pd.options.display.max_columns = None
 
-arquivo = "../data/data.json"
+arquivo = "./data/data.json"
 
 
 # carregando o dataset
@@ -41,7 +41,7 @@ df.drop(columns=["old_price_reais", "old_price_centavos",
 
 
 # Conectar ao banco de dados SQLite (ou criar um novo)
-conn = sqlite3.connect("../data/quotes.db")
+conn = sqlite3.connect("./data/quotes.db")
 
 # Salvar o DataFrame no banco de dados SQLite
 df.to_sql("mercadolivre_items", conn, if_exists="replace", index=False)
