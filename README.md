@@ -40,7 +40,7 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 + Etapa 3: Carregamento dos dados em uma banco de dados SQLite3
 + Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit
 
-`
+```plaintext
 .
 ├── data
 │   ├── data.json
@@ -67,7 +67,7 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
     ├── dashboard
     ├── scrapy.cfg
     └── transformacao
-`
+```
 
 
 <h2 id="id1">Como executar o Projeto</h2>
