@@ -56,11 +56,7 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 ├── pyproject.toml
 ├── README.md
 ├── reports
-│   ├── apresentação.pdf
-│   ├── Ebook_Como Estruturar Projeto de Dados do Zero.pdf
-│   ├── problema_de_negocio.md
-│   ├── Workshop Aberto.excalidraw
-│   └── Workshop Aberto.svg
+│   └── docs
 ├── requirements.txt
 └── src
     ├── coleta
