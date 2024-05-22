@@ -1,4 +1,17 @@
 import scrapy
+import os
+
+arquivo = "../data/data.json"
+
+# Verifica se o arquivo existe
+if os.path.isfile(arquivo):
+    try:
+        os.remove(arquivo)
+        print("O arquivo foi deletado com sucesso.")
+    except Exception as e:
+        print(f"Ocorreu um erro ao tentar deletar o arquivo: {e}")
+else:
+    print("O arquivo não existe.")
 
 
 class MercadolivreSpider(scrapy.Spider):
