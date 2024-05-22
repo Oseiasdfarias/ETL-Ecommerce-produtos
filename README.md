@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img height="90px" src="https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-0-1.png">
+  <img height="130px" src="https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-0-1.png">
 </p>
 
 <p align="center" style="font-size:1.5vw">
