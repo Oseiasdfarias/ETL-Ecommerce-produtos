@@ -40,6 +40,16 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 + Etapa 3: Carregamento dos dados em uma banco de dados SQLite3
 + Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit
 
+
+<h3>Pipeline</h3>
+
+<p align="center">
+  <img wight="90%" src="./reports/docs/diagram_project.png">
+</p>
+
+
+<h3>Estrutura do Projeto</h3>
+
 ```plaintext
 .
 ├── data
