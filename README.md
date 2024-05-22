@@ -40,6 +40,35 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 + Etapa 3: Carregamento dos dados em uma banco de dados SQLite3
 + Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit
 
+`
+.
+├── data
+│   ├── data.json
+│   └── quotes.db
+├── docs
+│   ├── about.md
+│   ├── index.md
+│   ├── javascripts
+│   └── stylesheets
+├── mkdocs.yml
+├── poetry.lock
+├── problema_de_negocio.md
+├── pyproject.toml
+├── README.md
+├── reports
+│   ├── apresentação.pdf
+│   ├── Ebook_Como Estruturar Projeto de Dados do Zero.pdf
+│   ├── problema_de_negocio.md
+│   ├── Workshop Aberto.excalidraw
+│   └── Workshop Aberto.svg
+├── requirements.txt
+└── src
+    ├── coleta
+    ├── dashboard
+    ├── scrapy.cfg
+    └── transformacao
+`
+
 
 <h2 id="id1">Como executar o Projeto</h2>
 
