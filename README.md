@@ -20,6 +20,10 @@
 
 <h1>ETL E-commerce Mercado Livre</h1>
 
+<p align="center">
+  <img wight="90%" src="./docs/utils/dashboard.gif">
+</p>
+
 
 
 Proposta do Projeto
@@ -39,11 +43,6 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 + Etapa 2: Transformação dos dados usando Pandas;
 + Etapa 3: Carregamento dos dados em uma banco de dados SQLite3;
 + Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit;
-
-<p align="center">
-  <img wight="90%" src="./docs/utils/dashboard.gif">
-</p>
-
 
 
 <h3>Pipeline</h3>
