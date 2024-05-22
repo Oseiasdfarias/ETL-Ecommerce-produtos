@@ -35,10 +35,15 @@ Sua equipe de Dados ficou responsável por realizar esse projeto.
 
 <h3>Etapas</h3>
 
-+ Etapa 1: Extração dos dados usanda Web Scraping
-+ Etapa 2: Transformação dos dados usando Pandas
-+ Etapa 3: Carregamento dos dados em uma banco de dados SQLite3
-+ Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit
++ Etapa 1: Extração dos dados usanda Web Scraping;
++ Etapa 2: Transformação dos dados usando Pandas;
++ Etapa 3: Carregamento dos dados em uma banco de dados SQLite3;
++ Etapa 4: Consumindo os dados usando uma Dashboard com Streamlit;
+
+<p align="center">
+  <img wight="90%" src="./docs/utils/dashboard.gif">
+</p>
+
 
 
 <h3>Pipeline</h3>
