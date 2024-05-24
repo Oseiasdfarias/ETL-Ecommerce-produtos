@@ -13,3 +13,8 @@ Requisitos de negócio:
 - *reviews_rating_number*
 - *reviews_amount*
 
+
+sites
+
+https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos?tab=readme-ov-file
+https://excalidraw.com/#json=LZbWoqwysJtmVJoJ0AhlR,u-5XV-NpfxlScESzTTfdIw

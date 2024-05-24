@@ -4,7 +4,6 @@ repo_url: https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos
 
 nav:
   - Home: index.md
-  - About: about.md
 
 theme:
   name: material

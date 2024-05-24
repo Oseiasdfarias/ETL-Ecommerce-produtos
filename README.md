@@ -3,6 +3,12 @@
   <img height="130px" src="https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-0-1.png">
 </p>
 
+
+<p align=center> <a href="https://oseiasfarias.info/ETL-Ecommerce-produtos/"><h3  align=center>Página de Documentação</h3></a>
+</p>
+
+
+
 <p align="center" style="font-size:1.5vw">
   • <a href="#techs">Tecnologias</a>
   • <a href="#id1"> Solução </a>
@@ -21,7 +27,7 @@
 <h1>ETL E-commerce Mercado Livre</h1>
 
 <p align="center">
-  <img wight="90%" src="./docs/utils/dashboard.gif">
+  <img wight="90%" src="./reports/utils/dashboard.gif">
 </p>
 
 
