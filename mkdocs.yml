@@ -2,8 +2,8 @@ site_name: ETL e-commerce Mercado Livre
 
 repo_url: https://github.com/Oseiasdfarias/ETL-Ecommerce-produtos
 
-nav:
-  - Home: index.md
+# nav:
+#   - Home: index.md
 
 theme:
   name: material
